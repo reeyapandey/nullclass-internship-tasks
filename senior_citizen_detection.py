@@ -1,1 +1,0 @@
-# Webcam video detection + CSV logging
