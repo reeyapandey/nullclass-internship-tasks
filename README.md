@@ -57,7 +57,9 @@ This repository contains all the code, models, and scripts developed during my A
 
 ## 🚀 How to Run
 
-### 🔹 Step 1: Install Dependencies
+
+### 🔹 Step 1: Install
+
 Install all necessary libraries using:
 ```bash
 pip install -r requirements.txt
