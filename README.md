@@ -1,1 +1,1 @@
-# nullclass-internship-tasks
+# Updated README for all tasks
